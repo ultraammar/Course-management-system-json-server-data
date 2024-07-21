@@ -15,8 +15,8 @@
     {
       "id": "3",
       "email": "mariam.james@hotmail.com",
-      "password": "student",
-      "user_type": "student"
+      "password": "teacher",
+      "user_type": "teachera"
     }
   ],
   "courses": [
